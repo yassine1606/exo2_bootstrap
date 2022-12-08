@@ -1,0 +1,15 @@
+#s1 {
+  display: flex;
+  justify-content: center;
+}
+
+#divMere {
+  display: flex;
+  justify-content: center;
+}
+
+#all1 {
+  width: 80vw;
+  margin: auto;
+  background-color: rgb(248, 249, 250);
+}
